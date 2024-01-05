@@ -47,14 +47,14 @@
 }
 /* Resetting Default Style */
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 /* Heading */
 .task-section__title {
@@ -132,14 +132,14 @@ input,button{
 /* Edit Task */
 .task_complete .task__text-input,
 .task_todo .task__text-input {
-  display:none
+  display: none
 }
 
 .task_edit .task__text-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task_edit .task__label {
-  display:none;
+  display: none;
 }
