@@ -27,7 +27,8 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.task__text-input, .task__label{
+.task__text-input,
+.task__label{
   flex-grow: 1;
 }
 .task_new {
@@ -50,10 +51,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li, 
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button {
   outline: none;
 }
 /* Heading */
@@ -92,7 +95,8 @@ input,button{
 }
 
 /* Task list */
-.task_todo, .task_complete {
+.task_todo, 
+.task_complete {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
